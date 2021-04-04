@@ -3,6 +3,7 @@ A "custom" layer 4 protocol for raw socket communication on linux. Golang librar
 
 ## INSTALL
 ```
+sudo apt-get install libpcap-dev
 go get github.com/Crznic/Crznic
 ```
 
